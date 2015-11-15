@@ -1,3 +1,0 @@
-# Elementarstrukturen
-
-Tolles Projekt!
